@@ -1,6 +1,6 @@
 ## Olá! Me chamo Rennê 👋
 
-Possuo interesse na atuação profissional como Cientista de Dados, Engenheiro de Analytics ou Engenheiro de Machine Learning.
+Possuo interesse de atuação profissional nos cargos de Cientista de Dados, Engenheiro de Analytics ou Engenheiro de Machine Learning.
 
 Atualmente trabalho como Engenheiro de Software atrelado ao Tribunal de Contas da União.
 
