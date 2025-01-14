@@ -7,7 +7,7 @@ Atualmente trabalho como Engenheiro de Software atrelado ao Tribunal de Contas d
 Possuo 7 anos de experiência desenvolvendo aplicações e soluções tecnológicas. Sou bacharel em Engenharia da Computação e atualmente curso pós-graduação e **mestrado em Inteligência artificial e Machine Learning**, sou apaixonado em como dados podem gerar impacto e ampliar o escopo de criação e manutenção de sistemas. Atualmente minha pesquisa se insere no estudo e avaliação de aprendizado de máquina, Processamento de Linguagem Natural e tarefas de classificação.
 
 ## Minhas competências
-- 👨‍💻 Possuo proficiência em Python e SQL
+- 👨‍💻 Possuo proficiência em Python e SQL e linguagens/frameworks para desenvolvimento web como JavaScript, VueJS e React Native
 - 📈 Habilidade em análise estatística direcionados a Ciência de Dados
 - 🔤 Conhecimentos de Processamento de Linguagem Natural (NLP)
 - 🤖 Machine Learning e técnicas de Inteligência Artificial
