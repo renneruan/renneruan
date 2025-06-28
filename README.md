@@ -1,27 +1,26 @@
 ## Olá! Me chamo Rennê 👋
 
-Possuo interesse de atuação profissional nos cargos de Cientista de Dados, Engenheiro de Analytics ou Engenheiro de Machine Learning.
-
-Atualmente trabalho como Engenheiro de Software atrelado ao Tribunal de Contas da União.
+Atualmente trabalho como Cientista de Dados na umgrauemeio, startup dedicada a detecção de incêndios florestais utilizando Visão Computacional! 
 
 Possuo 7 anos de experiência desenvolvendo aplicações e soluções tecnológicas. Sou bacharel em Engenharia da Computação e atualmente curso pós-graduação e **mestrado em Inteligência artificial e Machine Learning**, sou apaixonado em como dados podem gerar impacto e ampliar o escopo de criação e manutenção de sistemas. Atualmente minha pesquisa se insere no estudo e avaliação de aprendizado de máquina, Processamento de Linguagem Natural e tarefas de classificação.
 
 ## Minhas competências
-- 👨‍💻 Possuo proficiência em Python e SQL e JavaScript (React Native)
+- 🤖 Machine Learning e técnicas de Inteligência Artificial
+- 👁️ Visão Computacional, técnicas de CNN, DL e Transformers como YOLO e DETR 
+- 👨‍💻 Possuo proficiência em Python, SQL e JavaScript (React Native)
+- ☁ Experiência com AWS, Sagemaker AI e Docker para criação de ambientes e treinamentos escaláveis.
 - 📈 Habilidade em análise estatística direcionados a Ciência de Dados
 - 🔤 Conhecimentos de Processamento de Linguagem Natural (NLP)
-- 🤖 Machine Learning e técnicas de Inteligência Artificial
 - 🖋 Experiente nas melhores práticas de escrita de código, modularização e estrutura de sistemas
 - 🌐 Criação de APIs e frameworks correspondentes (Django, Laravel, FastAPI, Flask)
 - ⚙ Testes unitários e ferramentas de controle de versão como Git
-- 📦 Sólido conhecimento em estratégias de CI/CD para implementações otimizadas e escaláveis.
+- 📦 Sólido conhecimento em estratégias de CI/CD para implementações automatizadas.
 - 🎲 Maestria em banco de dados PostgreSQL, MySQL e Oracle
-- ☁ Familiaridade com serviços em nuvem AWS e Docker para criação de ambientes em contêineres.
 - 💼 Experiência liderando times, priorizando backlogs e gerenciando cronogramas de projetos
 
 Sou apaixonado por utilizar tecnologia e dados para criar soluções de impacto e alinhadas ao objetivo do negócio. 
 
-Valorizo a empatia, a comunicação e o aprendizado contínuo, almejando meu desenvolvimento profissional e pessoal enquanto contribuo de forma significativa para a área de Ciência de Dados e o mundo ao meu redor. ✨
+Valorizo a empatia, a comunicação e o aprendizado contínuo, almejando meu desenvolvimento profissional e pessoal enquanto contribuo de forma significativa para a área de Ciência de Dados e o mundo ao meu redor.
 
 ## Conecte-se comigo!
 
