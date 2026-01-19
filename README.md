@@ -1,48 +1,42 @@
-## Olá! Me chamo Rennê 👋
+# Hi there! I'm Rennê 👋
 
-Atualmente trabalho como Cientista de Dados na umgrauemeio, startup dedicada a detecção de incêndios florestais utilizando Visão Computacional! 
+I am a **Data Scientist at umgrauemeio**, a startup dedicated to wildfire detection using Computer Vision. With 7 years of experience developing technological applications and solutions, I hold a B.S. in Computer Engineering and am currently pursuing a Master’s degree in **Artificial Intelligence and Machine Learning**.
 
-Possuo 7 anos de experiência desenvolvendo aplicações e soluções tecnológicas. Sou bacharel em Engenharia da Computação e atualmente curso pós-graduação e **mestrado em Inteligência artificial e Machine Learning**, sou apaixonado em como dados podem gerar impacto e ampliar o escopo de criação e manutenção de sistemas. Atualmente minha pesquisa se insere no estudo e avaliação de aprendizado de máquina, Processamento de Linguagem Natural e tarefas de classificação.
+I am passionate about how data can drive impact and expand the scope of system creation and maintenance. My research currently focuses on the study and evaluation of Machine Learning, Natural Language Processing (NLP), and classification tasks.
 
-## Minhas competências
-- 🤖 Machine Learning e técnicas de Inteligência Artificial
-- 👁️ Visão Computacional, técnicas de CNN, DL e Transformers como YOLO e DETR 
-- 👨‍💻 Possuo proficiência em Python, SQL e JavaScript (React Native)
-- ☁ Experiência com AWS, Sagemaker AI e Docker para criação de ambientes e treinamentos escaláveis.
-- 📈 Habilidade em análise estatística direcionados a Ciência de Dados
-- 🔤 Conhecimentos de Processamento de Linguagem Natural (NLP)
-- 🖋 Experiente nas melhores práticas de escrita de código, modularização e estrutura de sistemas
-- 🌐 Criação de APIs e frameworks correspondentes (Django, Laravel, FastAPI, Flask)
-- ⚙ Testes unitários e ferramentas de controle de versão como Git
-- 📦 Sólido conhecimento em estratégias de CI/CD para implementações automatizadas.
-- 🎲 Maestria em banco de dados PostgreSQL, MySQL e Oracle
-- 💼 Experiência liderando times, priorizando backlogs e gerenciando cronogramas de projetos
+🚀 Featured Project: BERTomelo
+I am the creator of BERTomelo, a specialized Portuguese language model based on ModernBERT hosted on Hugging Face.
+- Developed both 1k and 8k context window versions to handle varying document lengths.
+- Focused on enhancing performance for Portuguese-specific NLP tasks.
+- Check it out on Hugging Face
 
-Sou apaixonado por utilizar tecnologia e dados para criar soluções de impacto e alinhadas ao objetivo do negócio. 
+### 🛠 Core Competencies
 
-Valorizo a empatia, a comunicação e o aprendizado contínuo, almejando meu desenvolvimento profissional e pessoal enquanto contribuo de forma significativa para a área de Ciência de Dados e o mundo ao meu redor.
+* **AI & Machine Learning:** Deep knowledge of ML techniques and Artificial Intelligence.
+* **Computer Vision:** Expertise in CNNs, Deep Learning, and Transformers (including **YOLO** and **DETR**).
+* **Programming:** Proficient in **Python**, **SQL**, and **JavaScript** (React Native).
+* **Cloud & DevOps:** Experience with **AWS (SageMaker AI)** and **Docker** for scalable environments and training.
+* **Data Science:** Strong skills in statistical analysis tailored for data-driven insights.
+* **NLP:** Advanced knowledge of Natural Language Processing techniques.
+* **Software Engineering:** Experienced in clean code practices, modularization, and system architecture.
+* **APIs & Frameworks:** Building robust APIs using **FastAPI, Flask, Django**, and **Laravel**.
+* **Quality & Version Control:** Unit testing and mastery of **Git**.
+* **CI/CD:** Solid understanding of automation strategies for continuous implementation.
+* **Databases:** Mastery of **PostgreSQL, MySQL**, and **Oracle**.
+* **Leadership:** Experience leading teams, prioritizing backlogs, and managing project timelines.
 
-## Conecte-se comigo!
+### 🎯 My Vision
 
-Você pode verificar meu perfil e conteúdo pelos links: 
-[LinkedIn](https://www.linkedin.com/in/renne-oliveira/) e [Medium](https://medium.com/@data.renne)
+I am driven by using technology and data to create high-impact solutions aligned with business goals. I value empathy, communication, and continuous learning, aiming for professional and personal growth while contributing significantly to the field of Data Science and the world around me.
 
-## Curiosidades
+---
 
-Sou apaixonado por gatos, Kung Fu, teatro e Board Games! 🐈🥋🎭🎲\
-Meu jogo favorito é Hollow Knight! 🐜
+### 🔗 Connect with me
 
-<!--
-**renneruan/renneruan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [LinkedIn](https://www.linkedin.com/in/renne-oliveira/)
+* [Medium](https://medium.com/@data.renne)
 
-Here are some ideas to get you started:
+### 💡 Fun Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I’m passionate about cats, Kung Fu, theater, and Board Games! 🐈‍⬛🥋🎭🎲
+* My favorite game is **Hollow Knight**! 🐜
