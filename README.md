@@ -4,11 +4,6 @@ I am a **Data Scientist at umgrauemeio**, a startup dedicated to wildfire detect
 
 I am passionate about how data can drive impact and expand the scope of system creation and maintenance. My research currently focuses on the study and evaluation of Machine Learning, Natural Language Processing (NLP), and classification tasks.
 
-🚀 Featured Project: BERTomelo
-I am the creator of BERTomelo, a specialized Portuguese language model based on ModernBERT hosted on Hugging Face.
-- Developed both 1k and 8k context window versions to handle varying document lengths.
-- Focused on enhancing performance for Portuguese-specific NLP tasks.
-- Check it out on Hugging Face
 
 ### 🛠 Core Competencies
 
@@ -24,6 +19,11 @@ I am the creator of BERTomelo, a specialized Portuguese language model based on 
 * **CI/CD:** Solid understanding of automation strategies for continuous implementation.
 * **Databases:** Mastery of **PostgreSQL, MySQL**, and **Oracle**.
 * **Leadership:** Experience leading teams, prioritizing backlogs, and managing project timelines.
+
+I am the creator of BERTomelo, a specialized Portuguese language model based on ModernBERT hosted on Hugging Face.
+- Developed both 1k and 8k context window versions to handle varying document lengths.
+- Focused on enhancing performance for Portuguese-specific NLP tasks.
+- Check it out on [Hugging Face](https://huggingface.co/renneruan/BERTomelo-ModernBERT-Base-1k)
 
 ### 🎯 My Vision
 
