@@ -19,6 +19,7 @@ I am the creator of **BERTomelo**, an open-source Portuguese language encoder mo
 ### 🎯 My Vision
 
 I am driven by using technology to create a better world, with a strong interest in Responsible AI, Green AI, and applying machine learning to climate sciences and sustainability. I value empathy, clear communication, and continuous learning, aiming to contribute significantly to the tech community through research and collaborative open-source development.
+
 ---
 
 ### 🔗 Connect with me
