@@ -24,11 +24,6 @@ I am driven by using technology to create a better world, with a strong interest
 
 ### 🔗 Connect with me
 
-* [LinkedIn](https://www.linkedin.com/in/renne-oliveira/)
-* [Medium](https://medium.com/@data.renne)
-
-### 🔗 Connect with me
-
 - [LinkedIn](https://www.linkedin.com/in/renne-oliveira/)
 - [Medium](https://medium.com/@data.renne)
 - [Portfolio](https://renneoliveira.com/)
